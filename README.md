@@ -6,7 +6,7 @@ This is a Project based on the course Platzi that show a full landingPage with a
 ![demo](https://media.giphy.com/media/QxGNiN5HHyiyza8lSB/giphy.gif)
 
 ### Technologies used:
-- SCSS, CSS & HTML.
+- SCSS, CSS & HTML
 
 ##### Cool Features:
 
