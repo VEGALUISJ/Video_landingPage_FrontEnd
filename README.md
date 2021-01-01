@@ -11,4 +11,4 @@ This is a Project based on the course Platzi that show a full landingPage with a
 ##### Cool Features:
 
 great display showing the website with some animations that looks awesome.
-cool design for signIn and logIn.
+cool design for signIn and logIn
